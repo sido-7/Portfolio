@@ -1,0 +1,13 @@
+# VS Code junk
+.vscode/
+**/ms-python.python-*/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node stuff (if any)
+node_modules/
+
+# Env variables (if any)
+.env
